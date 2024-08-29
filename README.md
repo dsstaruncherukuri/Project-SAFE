@@ -1,0 +1,1 @@
+Developed a robust Multi-Factor Authentication (MFA) system integrating biometric, PIN, and Bluetooth authentication for Smart IoT Arduino Modules. The system features emergency access, an instant alerting system, a fail-safe protocol, and captures intrusion photos, enhancing security for smart home and city solutions.
